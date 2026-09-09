@@ -1,6 +1,6 @@
-# ClassSmooth
+# Smooth
 
-This folder contains **46 fields** assigned to the **ClassSmooth** class.
+This folder contains **46 fields** assigned to the **Smooth** class.
 
 ## Gallery
 

@@ -1,6 +1,6 @@
-# ClassElongated
+# Elongated
 
-This folder contains **21 fields** assigned to the **ClassElongated** class.
+This folder contains **21 fields** assigned to the **Elongated** class.
 
 ## Gallery
 

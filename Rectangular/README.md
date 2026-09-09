@@ -1,6 +1,6 @@
-# ClassRectangular
+# Rectangular
 
-This folder contains **26 fields** assigned to the **ClassRectangular** class.
+This folder contains **26 fields** assigned to the **Rectangular** class.
 
 ## Gallery
 

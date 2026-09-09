@@ -1,6 +1,6 @@
-# ClassObstacles
+# Obstacles
 
-This folder contains **26 fields** assigned to the **ClassObstacles** class.
+This folder contains **26 fields** assigned to the **Obstacles** class.
 
 ## Gallery
 

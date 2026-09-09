@@ -1,6 +1,6 @@
-# ClassConvex
+# Convex
 
-This folder contains **45 fields** assigned to the **ClassConvex** class.
+This folder contains **45 fields** assigned to the **Convex** class.
 
 ## Gallery
 

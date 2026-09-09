@@ -1,6 +1,6 @@
-# ClassIrregular
+# Irregular
 
-This folder contains **69 fields** assigned to the **ClassIrregular** class.
+This folder contains **69 fields** assigned to the **Irregular** class.
 
 ## Gallery
 

@@ -4,7 +4,9 @@ A dataset of agricultural field geometries organized into seven potentially over
 
 This dataset is part of the following PhD thesis: 
 
-Hoeffmann, Maria. Optimal Coverage Path Planning for Agricultural Machines. University of Bremen. [final publication in process]
+**Hoeffmann, Maria. Optimal Coverage Path Planning for Agricultural Machines. University of Bremen. [final publication in process].**
+Details about the classification process can be found there.
+
 
 
 ## Classes
