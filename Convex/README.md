@@ -4,7 +4,7 @@ This folder contains **45 fields** assigned to the **ClassConvex** class.
 
 ## Gallery
 
-gallery.png
+![Dataset Gallery](gallery.png)
 
 ## Statistics
 

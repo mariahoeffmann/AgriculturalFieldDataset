@@ -4,7 +4,7 @@ This folder contains **46 fields** assigned to the **ClassSmooth** class.
 
 ## Gallery
 
-gallery.png
+![Dataset Gallery](gallery.png)
 
 ## Statistics
 

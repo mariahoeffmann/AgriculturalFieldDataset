@@ -4,7 +4,7 @@ This folder contains **21 fields** assigned to the **ClassElongated** class.
 
 ## Gallery
 
-gallery.png
+![Dataset Gallery](gallery.png)
 
 ## Statistics
 

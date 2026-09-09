@@ -4,7 +4,7 @@ This folder contains **26 fields** assigned to the **ClassRectangular** class.
 
 ## Gallery
 
-gallery.png
+![Dataset Gallery](gallery.png)
 
 ## Statistics
 

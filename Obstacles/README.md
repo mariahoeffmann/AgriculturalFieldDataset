@@ -4,7 +4,7 @@ This folder contains **26 fields** assigned to the **ClassObstacles** class.
 
 ## Gallery
 
-gallery.png
+![Dataset Gallery](gallery.png)
 
 ## Statistics
 

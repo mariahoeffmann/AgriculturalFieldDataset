@@ -4,7 +4,7 @@ This folder contains **69 fields** assigned to the **ClassIrregular** class.
 
 ## Gallery
 
-gallery.png
+![Dataset Gallery](gallery.png)
 
 ## Statistics
 
